@@ -43,7 +43,7 @@ making the option's mark to market match the specified amount.\
 ● The fixed premium price of INR 2.5\
 ● Fixed capped value = INR 5\
 **Category 2:**\
-_Option style (Exotic options with standard exercise style)_\
+**Option style (Exotic options with standard exercise style)** \
 ● Rainbow option\
 A rainbow option is a basket option where the weightings depend on the final
 performances of the components. A common special case is an option on the
